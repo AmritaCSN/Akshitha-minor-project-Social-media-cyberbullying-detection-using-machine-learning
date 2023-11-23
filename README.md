@@ -9,6 +9,15 @@ Prerequisite
 
 
 1).Anaconda Prompt
+
 2).Dataset
+
+
+Steps to Run the Code
+1). Start Anaconda
+
+2).
+
+
 
 
