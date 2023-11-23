@@ -15,7 +15,7 @@ The significant increase in occurrences of cyberbullying has brought attention t
 
 # Steps to Run the Code
 
-1). Make sure the 2 dataset and the code files are the same folder
+1). Make sure that the 2 dataset and the code files are the same folder
 
 2). After that click on the code file, it will directly open in Visual Studio
 
