@@ -19,7 +19,7 @@ The significant increase in occurrences of cyberbullying has brought attention t
 
 2). After that click on the code file, it will directly open in Visual Studio
 
-3). for running each cells click on # Shift+Enter
+3). for running each cells click on Shift+Enter
 
 
 
